@@ -29,7 +29,7 @@ export default function Checkout() {
   const params = useSearchParams();
 
   const publishableKey =
-    "YOUR-STIPE-KEY";
+    process.env.STIPE_PK;
   const stripePromise = loadStripe(publishableKey);
 
   console.log(cartItems);
