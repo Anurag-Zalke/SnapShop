@@ -34,8 +34,7 @@ export default function Home() {
               Best Fashion Collection
             </h1>
             <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">
-              Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo
-              lacus meleifend menean diverra loremous.
+              Creating a memorable user experience, all the way from product discovery to checkout.
             </p>
 
             <button
